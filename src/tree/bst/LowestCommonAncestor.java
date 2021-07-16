@@ -1,7 +1,8 @@
 package tree.bst;
 
 import tree.Node;
-
+//Time complexity is O(h)
+//Space complexity is O(1)
 public class LowestCommonAncestor {
     Node root;
     public static void main(String[] args) {

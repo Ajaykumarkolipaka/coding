@@ -1,5 +1,6 @@
 package string.dp;
-
+//time complexity 0(n*n)
+//Space complexity 0(n*n)
 public class LongestPalinSubstring {
     public static void main(String[] args) {
         String str = "abbcdd";

@@ -2,7 +2,8 @@ package string;
 
 import java.util.ArrayList;
 import java.util.List;
-
+//Time complexity is O(n*n!) as string of length n -> n! permutations will be there and n as we need to print it
+//Space complexity is O(n!)
 public class Permutation {
     private static List<String> list = new ArrayList<>();
     public static void main(String[] args) {

@@ -32,6 +32,9 @@ Example 5:
 Input: nums1 = [2], nums2 = []
 Output: 2.00000
 * */
+
+//Time complexity O(arr.length)
+//Space complexity O(m + n)
 public class MedianTwoSortedArrays {
     public static void main(String[] args) {
         int[] arr1 = {1,3};

@@ -1,5 +1,6 @@
 package search;
 
+//time complexity O(log n)
 public class FirstLastOccurrence {
     public static void main(String[] args) {
         int[] arr = {1,1,3,3,6,6,6};

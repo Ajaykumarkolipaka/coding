@@ -1,5 +1,6 @@
 package search;
 
+//Time complexity is O(log n)
 public class BinarySearch {
     public static void main(String[] args) {
         int[] arr = {1,3,8,10};

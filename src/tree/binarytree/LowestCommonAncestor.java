@@ -3,7 +3,8 @@ package tree.binarytree;
 import tree.Node;
 
 import java.util.ArrayList;
-
+//Time complexity is O(n)
+//Space complexity is 0(n)
 public class LowestCommonAncestor {
     Node root;
     public static ArrayList<Node> left = new ArrayList<>();

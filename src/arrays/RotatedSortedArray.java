@@ -23,6 +23,7 @@ Example 3:
 Input: nums = [1], target = 0
 Output: -1
 */
+//time complexity O(log n)
 public class RotatedSortedArray {
     public static void main(String[] args) {
         int[] arr = {4,5,6,7,0,1,2};
