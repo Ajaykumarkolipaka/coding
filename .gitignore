@@ -4,6 +4,7 @@
 *.iws
 *.jar
 *.sw?
+*.idea
 *~
 .#*
 .*.md.html
@@ -13,6 +14,7 @@
 .factorypath
 .gradle
 .idea
+out
 .metadata
 .project
 .recommenders

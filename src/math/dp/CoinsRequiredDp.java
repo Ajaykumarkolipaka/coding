@@ -1,4 +1,4 @@
-package math;
+package math.dp;
 
 public class CoinsRequiredDp {
     public static void main(String[] args) {
